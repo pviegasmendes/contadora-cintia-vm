@@ -1,3 +1,28 @@
+
+/* 
+colores
+acento: #5B0888
+primario: #9D76C1
+secundario: #E5CFF7
+ */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #E5CFF7;
+}
+
+
+
+.hero {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    background-color: #9D76C1;
+    color: #E5CFF7;
+}
+
+.hero_txt {
+    font-weight: 800;
+    font-style: italic;
+    font-size: xx-large;
 }
